@@ -1,6 +1,9 @@
 # bitchbot v1
 ![a](https://raw.githubusercontent.com/bigdanix/roblox-ui-libs/refs/heads/main/!%20images/bitchbot.png)
 
+# catalyst
+![a](https://github.com/bigdanix/roblox-ui-libs/blob/main/!%20images/catalyyst.png?raw=true)
+
 # cattoware
 ![a](https://github.com/bigdanix/roblox-ui-libs/blob/main/!%20images/cattoware.png?raw=true)
 
